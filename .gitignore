@@ -1,0 +1,10 @@
+node_modules
+.env
+# ignoring these 2 files
+
+# run npm i express dotenv mongoose, in terminal
+# npm i -npm i express dotenv monngooseD nodemon, in terminal
+# in package.json, in "scripts": add "server": "nodemon server.js"
+# git init in terminal
+# git:(main) x git add .  in term
+# git:(main) x git commit -m "Initial commit" in term
